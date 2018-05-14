@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26403.7
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mag.Tech", "Mag.Tech.csproj", "{0E723F46-87B3-4627-9F4D-CDFD3800EC3D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mag.Tech.Tests", "..\Mag.Tech.Tests\Mag.Tech.Tests.csproj", "{D5A82CB3-5C22-4AE3-BAB8-FF0643EF0F52}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0E723F46-87B3-4627-9F4D-CDFD3800EC3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E723F46-87B3-4627-9F4D-CDFD3800EC3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E723F46-87B3-4627-9F4D-CDFD3800EC3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E723F46-87B3-4627-9F4D-CDFD3800EC3D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5A82CB3-5C22-4AE3-BAB8-FF0643EF0F52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5A82CB3-5C22-4AE3-BAB8-FF0643EF0F52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5A82CB3-5C22-4AE3-BAB8-FF0643EF0F52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5A82CB3-5C22-4AE3-BAB8-FF0643EF0F52}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {81ED9B74-BAC3-4E90-A023-7A48C47BE803}
+	EndGlobalSection
+EndGlobal
